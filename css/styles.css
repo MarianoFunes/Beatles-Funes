@@ -46,4 +46,34 @@ footer img {
 .historia img {
    
     max-height:350px;
+    
 }
+
+
+.h4Titulo {
+    color: white;
+}
+
+.card {
+
+ height: 350px;
+ width: 350px;
+background-color: rgb(0, 0, 53) ; 
+    
+}
+
+.card img {
+   height: 350px;
+    width: 350px;
+
+}
+
+
+
+.textDiscografia {
+    color: white;
+    text-shadow: gray;
+    margin-left: 15px;
+    
+}
+
