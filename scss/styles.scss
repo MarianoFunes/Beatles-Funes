@@ -1,0 +1,83 @@
+/**INDEX**/
+
+@import "discografia";
+
+$colortexto: white;
+
+body {
+    background-color: rgb(0, 0, 53);
+
+}
+
+header li:hover {
+    background-color: rgb(72, 208, 223);
+    transition: background-color .7s; }
+
+#imagenIndex img {
+
+    height: 600px;
+    width: 199%;
+}
+
+.textoIndex { 
+
+    color: black;
+   font-size: 35PX;
+    
+}
+
+
+footer img {
+    height: 30px;
+    width: 30px;
+
+}
+
+/****FIN INDEX****/ 
+
+/**HISTORIA**/
+
+.textoHistoria, .tituloHistoria {
+    color: white;
+  
+}
+
+.textoHistoria a {
+    
+    color:red;
+}
+
+.historia img {
+   
+    max-height:350px;
+    
+}
+
+
+.h4Titulo {
+    color: white;
+}
+
+.card {
+
+ height: 350px;
+ width: 350px;
+background-color: rgb(0, 0, 53) ; 
+    
+}
+
+.card img {
+   height: 350px;
+    width: 350px;
+
+}
+
+
+
+.textDiscografia {
+    color: white;
+    text-shadow: gray;
+    margin-left: 15px;
+    
+}
+
